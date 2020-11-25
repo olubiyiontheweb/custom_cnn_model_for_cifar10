@@ -9,7 +9,7 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 ![Loss chart](https://github.com/olubiyiontheweb/custom_cnn_model_for_cifar10/blob/master/loss_chart.jpg)
 
-![Accuracy chart](https://github.com/olubiyiontheweb/custom_cnn_model_for_cifar10/blob/master/accuracy_chart.jpg)
+![Accuracy chart](https://github.com/olubiyiontheweb/custom_cnn_model_for_cifar10/blob/master/accuracy_chart.png)
 
 ![Prediction 1](https://github.com/olubiyiontheweb/custom_cnn_model_for_cifar10/blob/master/Prediction1.jpg)
 
